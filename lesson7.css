@@ -33,3 +33,7 @@ td.game-table-cell{
     margin: 30px auto 0;
     text-align: center;
 }
+
+.bomb-unit {
+    background-color: rgb(230, 245, 26);
+} 
